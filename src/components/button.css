@@ -1,0 +1,18 @@
+.botonera{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    margin: 20px;    
+    background-color: grey;
+    color: whitesmoke;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;    
+    font-size: 2rem;
+    cursor: pointer;
+};
+

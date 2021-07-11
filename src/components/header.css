@@ -1,0 +1,12 @@
+h1{
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 0px;
+    font-size: 3em;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    box-shadow: 5px 5px 10px black;
+
+}
